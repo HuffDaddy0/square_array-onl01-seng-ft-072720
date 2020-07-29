@@ -5,4 +5,3 @@ def square_array(array)
     new_arr.push(element)
   end
 end
-
